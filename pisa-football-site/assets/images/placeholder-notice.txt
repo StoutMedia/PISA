@@ -1,0 +1,1 @@
+Image placeholders are intentionally represented in HTML/CSS as styled blocks so the site can run locally without missing image assets. Replace these placeholders with optimized player, training, camp, and dashboard images when brand photography is available.
